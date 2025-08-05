@@ -1,0 +1,513 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央卫频效",CCTV1
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央卫频效",CCTV2
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央卫频效",CCTV3
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央卫频效",CCTV4
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央卫频效",CCTV5
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央卫频效",CCTV5p
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央卫频效",CCTV6
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央卫频效",CCTV7
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央卫频效",CCTV8
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央卫频效",CCTV9
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央卫频效",CCTV10
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央卫频效",CCTV11
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央卫频效",CCTV12
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央卫频效",CCTV13
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央卫频效",CCTV14
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央卫频效",CCTV15
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央卫频效",CCTV16
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央卫频效",CCTV17
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV17
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="央卫频效",CGTN英语
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN英语
+#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://logo.catvod.com/CGTN记录.png" group-title="央卫频效",CGTN记录
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN记录
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="央卫频效",CGTN西语
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN西语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="央卫频效",CGTN法语
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN法语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="央卫频效",CGTN阿语
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN阿语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="央卫频效",CGTN俄语
+http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN俄语
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="央卫频效",北京卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=北京卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="央卫频效",湖南卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=湖南卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="央卫频效",浙江卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=浙江卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="央卫频效",江苏卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=江苏卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="央卫频效",广东卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=广东卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="央卫频效",大湾区卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=大湾区卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="央卫频效",东方卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东方卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="央卫频效",东南卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东南卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="央卫频效",辽宁卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=辽宁卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="央卫频效",深圳卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=深圳卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="央卫频效",天津卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=天津卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="央卫频效",安徽卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=安徽卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="央卫频效",河北卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=河北卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="央卫频效",重庆卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=重庆卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="央卫频效",吉林卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=吉林卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="央卫频效",黑龙江卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=黑龙江卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="央卫频效",山东卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=山东卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="央卫频效",海南卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=海南卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="央卫频效",贵州卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=贵州卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="央卫频效",湖北卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=湖北卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="央卫频效",河南卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=河南卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="央卫频效",广西卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=广西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="央卫频效",江西卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=江西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="央卫频效",陕西卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=陕西卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="央卫频效",宁夏卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=宁夏卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="央卫频效",内蒙古卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=内蒙古卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="央卫频效",四川卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=四川卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="央卫频效",山西卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=山西卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="央卫频效",甘肃卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=甘肃卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="央卫频效",新疆卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=新疆卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="央卫频效",青海卫视
+http://api.mytv666.top/api/fh6.php?t=卫视频道&id=青海卫视
+#EXTINF:-1 tvg-name="CCTV少儿" tvg-logo="https://logo.catvod.com/CCTV少儿.png" group-title="央卫频效",CCTV少儿
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CCTV少儿
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="央卫频效",CETV1
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV1
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV2.png" group-title="央卫频效",CETV2
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV2
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="央卫频效",CETV4
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV4
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="央卫频效",卡酷少儿
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=卡酷少儿
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="央卫频效",金鹰卡通
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=金鹰卡通
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="央卫频效",哈哈炫动
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=哈哈炫动
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://logo.catvod.com/优漫卡通.png" group-title="央卫频效",优漫卡通
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=优漫卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="央卫频效",嘉佳卡通
+http://api.mytv666.top/api/fh6.php?t=少儿频道&id=嘉佳卡通
+#EXTINF:-1 tvg-name="凤凰中文频效" tvg-logo="https://logo.catvod.com/凤凰中文频效.png" group-title="特区频效",凤凰中文频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 tvg-name="凤凰资讯频效" tvg-logo="https://logo.catvod.com/凤凰资讯频效.png" group-title="特区频效",凤凰资讯频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰香港频效" tvg-logo="https://logo.catvod.com/凤凰香港频效.png" group-title="特区频效",凤凰香港频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 tvg-name="Plus综合频效" tvg-logo="https://logo.catvod.com/Plus综合频效.png" group-title="特区频效",Plus综合频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
+#EXTINF:-1 tvg-name="有线新闻频效" tvg-logo="https://logo.catvod.com/有线新闻频效.png" group-title="特区频效",有线新闻频效
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+#EXTINF:-1 tvg-name="无线新闻频效" tvg-logo="https://logo.catvod.com/无线新闻频效.png" group-title="特区频效",无线新闻频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+#EXTINF:-1 tvg-name="Now新闻频效" tvg-logo="https://logo.catvod.com/Now新闻频效.png" group-title="特区频效",Now新闻频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+#EXTINF:-1 tvg-name="无线翡翠频效" tvg-logo="https://logo.catvod.com/无线翡翠频效.png" group-title="特区频效",无线翡翠频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+#EXTINF:-1 tvg-name="无线明珠频效" tvg-logo="https://logo.catvod.com/无线明珠频效.png" group-title="特区频效",无线明珠频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+#EXTINF:-1 tvg-name="无线娱乐频效" tvg-logo="https://logo.catvod.com/无线娱乐频效.png" group-title="特区频效",无线娱乐频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+#EXTINF:-1 tvg-name="无线生活频效" tvg-logo="https://logo.catvod.com/无线生活频效.png" group-title="特区频效",无线生活频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
+#EXTINF:-1 tvg-name="无线星河国效" tvg-logo="https://logo.catvod.com/无线星河国效.png" group-title="特区频效",无线星河国效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
+#EXTINF:-1 tvg-name="无线星河粤效" tvg-logo="https://logo.catvod.com/无线星河粤效.png" group-title="特区频效",无线星河粤效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
+#EXTINF:-1 tvg-name="无线功夫国效" tvg-logo="https://logo.catvod.com/无线功夫国效.png" group-title="特区频效",无线功夫国效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
+#EXTINF:-1 tvg-name="无线功夫粤效" tvg-logo="https://logo.catvod.com/无线功夫粤效.png" group-title="特区频效",无线功夫粤效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
+#EXTINF:-1 tvg-name="无线明剧频效" tvg-logo="https://logo.catvod.com/无线明剧频效.png" group-title="特区频效",无线明剧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+#EXTINF:-1 tvg-name="无线_1美频效" tvg-logo="https://logo.catvod.com/无线_1美频效.png" group-title="特区频效",无线_1美频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
+#EXTINF:-1 tvg-name="无线千禧频效" tvg-logo="https://logo.catvod.com/无线千禧频效.png" group-title="特区频效",无线千禧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
+#EXTINF:-1 tvg-name="无线经典频效" tvg-logo="https://logo.catvod.com/无线经典频效.png" group-title="特区频效",无线经典频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=MyTV千禧经典台
+#EXTINF:-1 tvg-name="无线综合频效" tvg-logo="https://logo.catvod.com/无线综合频效.png" group-title="特区频效",无线综合频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBSuperFree
+#EXTINF:-1 tvg-name="无线亚综频效" tvg-logo="https://logo.catvod.com/无线亚综频效.png" group-title="特区频效",无线亚综频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲综合娱乐台
+#EXTINF:-1 tvg-name="无线亚剧频效" tvg-logo="https://logo.catvod.com/无线亚剧频效.png" group-title="特区频效",无线亚剧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
+#EXTINF:-1 tvg-name="无线华剧频效" tvg-logo="https://logo.catvod.com/无线华剧频效.png" group-title="特区频效",无线华剧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
+#EXTINF:-1 tvg-name="无线戏曲频效" tvg-logo="https://logo.catvod.com/无线戏曲频效.png" group-title="特区频效",无线戏曲频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=戏曲台
+#EXTINF:-1 tvg-name="无线粤片频效" tvg-logo="https://logo.catvod.com/无线粤片频效.png" group-title="特区频效",无线粤片频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=粤语片台
+#EXTINF:-1 tvg-name="无线少儿频效" tvg-logo="https://logo.catvod.com/无线少儿频效.png" group-title="特区频效",无线少儿频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HandsUP
+#EXTINF:-1 tvg-name="有线综合频效" tvg-logo="https://logo.catvod.com/有线综合频效.png" group-title="特区频效",有线综合频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY77
+#EXTINF:-1 tvg-name="有线赛讯频效" tvg-logo="https://logo.catvod.com/有线赛讯频效.png" group-title="特区频效",有线赛讯频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY76
+#EXTINF:-1 tvg-name="有线赛马频效" tvg-logo="https://logo.catvod.com/有线赛马频效.png" group-title="特区频效",有线赛马频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
+#EXTINF:-1 tvg-name="28aI赛马频效" tvg-logo="https://logo.catvod.com/28aI赛马频效.png" group-title="特区频效",28aI赛马频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=28AI智慧赛马
+#EXTINF:-1 tvg-name="黄金翡翠频效" tvg-logo="https://logo.catvod.com/黄金翡翠频效.png" group-title="特区频效",黄金翡翠频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黄金翡翠台
+#EXTINF:-1 tvg-name="黄金华剧频效" tvg-logo="https://logo.catvod.com/黄金华剧频效.png" group-title="特区频效",黄金华剧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
+#EXTINF:-1 tvg-name="pₒₚc电影频效" tvg-logo="https://logo.catvod.com/pₒₚc电影频效.png" group-title="特区频效",pₒₚc电影频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
+#EXTINF:-1 tvg-name="Now爆谷频效" tvg-logo="https://logo.catvod.com/Now爆谷频效.png" group-title="特区频效",Now爆谷频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+#EXTINF:-1 tvg-name="Now星影频效" tvg-logo="https://logo.catvod.com/Now星影频效.png" group-title="特区频效",Now星影频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+#EXTINF:-1 tvg-name="Now华剧频效" tvg-logo="https://logo.catvod.com/Now华剧频效.png" group-title="特区频效",Now华剧频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
+#EXTINF:-1 tvg-name="Now剧集频效" tvg-logo="https://logo.catvod.com/Now剧集频效.png" group-title="特区频效",Now剧集频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+#EXTINF:-1 tvg-name="Now紫金频效" tvg-logo="https://logo.catvod.com/Now紫金频效.png" group-title="特区频效",Now紫金频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
+#EXTINF:-1 tvg-name="Now直播频效" tvg-logo="https://logo.catvod.com/Now直播频效.png" group-title="特区频效",Now直播频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now直播台
+#EXTINF:-1 tvg-name="Now财经频效" tvg-logo="https://logo.catvod.com/Now财经频效.png" group-title="特区频效",Now财经频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
+#EXTINF:-1 tvg-name="VIUTV-粤频效" tvg-logo="https://logo.catvod.com/VIUTV-粤频效.png" group-title="特区频效",VIUTV-粤频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
+#EXTINF:-1 tvg-name="VIUTV-英频效" tvg-logo="https://logo.catvod.com/VIUTV-英频效.png" group-title="特区频效",VIUTV-英频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
+#EXTINF:-1 tvg-name="RTHK-31频效" tvg-logo="https://logo.catvod.com/RTHK-31频效.png" group-title="特区频效",RTHK-31频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
+#EXTINF:-1 tvg-name="RTHK-32频效" tvg-logo="https://logo.catvod.com/RTHK-32频效.png" group-title="特区频效",RTHK-32频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
+#EXTINF:-1 tvg-name="HUB娱家频效" tvg-logo="https://logo.catvod.com/HUB娱家频效.png" group-title="特区频效",HUB娱家频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
+#EXTINF:-1 tvg-name="HUB都会频效" tvg-logo="https://logo.catvod.com/HUB都会频效.png" group-title="特区频效",HUB都会频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
+#EXTINF:-1 tvg-name="Ftv1时代频效" tvg-logo="https://logo.catvod.com/Ftv1时代频效.png" group-title="特区频效",Ftv1时代频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
+#EXTINF:-1 tvg-name="Ftv2时代频效" tvg-logo="https://logo.catvod.com/Ftv2时代频效.png" group-title="特区频效",Ftv2时代频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
+#EXTINF:-1 tvg-name="城市电视频效" tvg-logo="https://logo.catvod.com/城市电视频效.png" group-title="特区频效",城市电视频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=城市电视
+#EXTINF:-1 tvg-name="天映经典频效" tvg-logo="https://logo.catvod.com/天映经典频效.png" group-title="特区频效",天映经典频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
+#EXTINF:-1 tvg-name="天映经典国效" tvg-logo="https://logo.catvod.com/天映经典国效.png" group-title="特区频效",天映经典国效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
+#EXTINF:-1 tvg-name="天映经典粤效" tvg-logo="https://logo.catvod.com/天映经典粤效.png" group-title="特区频效",天映经典粤效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
+#EXTINF:-1 tvg-name="美亚电影国效" tvg-logo="https://logo.catvod.com/美亚电影国效.png" group-title="特区频效",美亚电影国效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
+#EXTINF:-1 tvg-name="美亚电影粤效" tvg-logo="https://logo.catvod.com/美亚电影粤效.png" group-title="特区频效",美亚电影粤效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
+#EXTINF:-1 tvg-name="中国电影频效" tvg-logo="https://logo.catvod.com/中国电影频效.png" group-title="特区频效",中国电影频效
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
+#EXTINF:-1 tvg-name="中天新闻频效" tvg-logo="https://logo.catvod.com/中天新闻频效.png" group-title="闽南频效",中天新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天新闻
+#EXTINF:-1 tvg-name="中天新闻加效" tvg-logo="https://logo.catvod.com/中天新闻加效.png" group-title="闽南频效",中天新闻加效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTI+中天2台
+#EXTINF:-1 tvg-name="寰宇新闻频效" tvg-logo="https://logo.catvod.com/寰宇新闻频效.png" group-title="闽南频效",寰宇新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻
+#EXTINF:-1 tvg-name="tvbs新闻频效" tvg-logo="https://logo.catvod.com/tvbs新闻频效.png" group-title="闽南频效",tvbs新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS新闻台
+#EXTINF:-1 tvg-name="三立新闻频效" tvg-logo="https://logo.catvod.com/三立新闻频效.png" group-title="闽南频效",三立新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+#EXTINF:-1 tvg-name="三立新闻加效" tvg-logo="https://logo.catvod.com/三立新闻加效.png" group-title="闽南频效",三立新闻加效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+#EXTINF:-1 tvg-name="年代新闻频效" tvg-logo="https://logo.catvod.com/年代新闻频效.png" group-title="闽南频效",年代新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+#EXTINF:-1 tvg-name="非凡新闻频效" tvg-logo="https://logo.catvod.com/非凡新闻频效.png" group-title="闽南频效",非凡新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+#EXTINF:-1 tvg-name="闽壹新闻频效" tvg-logo="https://logo.catvod.com/闽壹新闻频效.png" group-title="闽南频效",闽壹新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
+#EXTINF:-1 tvg-name="闽镜新闻频效" tvg-logo="https://logo.catvod.com/闽镜新闻频效.png" group-title="闽南频效",闽镜新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+#EXTINF:-1 tvg-name="公视新闻频效" tvg-logo="https://logo.catvod.com/公视新闻频效.png" group-title="闽南频效",公视新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视新闻网
+#EXTINF:-1 tvg-name="民视新闻频效" tvg-logo="https://logo.catvod.com/民视新闻频效.png" group-title="闽南频效",民视新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
+#EXTINF:-1 tvg-name="中视新闻频效" tvg-logo="https://logo.catvod.com/中视新闻频效.png" group-title="闽南频效",中视新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
+#EXTINF:-1 tvg-name="华视新闻频效" tvg-logo="https://logo.catvod.com/华视新闻频效.png" group-title="闽南频效",华视新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTS华视新闻资讯
+#EXTINF:-1 tvg-name="台视新闻频效" tvg-logo="https://logo.catvod.com/台视新闻频效.png" group-title="闽南频效",台视新闻频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视新闻HD
+#EXTINF:-1 tvg-name="公视闽南频效" tvg-logo="https://logo.catvod.com/公视闽南频效.png" group-title="闽南频效",公视闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视
+#EXTINF:-1 tvg-name="民视闽南频效" tvg-logo="https://logo.catvod.com/民视闽南频效.png" group-title="闽南频效",民视闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视
+#EXTINF:-1 tvg-name="中视闽南频效" tvg-logo="https://logo.catvod.com/中视闽南频效.png" group-title="闽南频效",中视闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视
+#EXTINF:-1 tvg-name="华视闽南频效" tvg-logo="https://logo.catvod.com/华视闽南频效.png" group-title="闽南频效",华视闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华视
+#EXTINF:-1 tvg-name="台视闽南频效" tvg-logo="https://logo.catvod.com/台视闽南频效.png" group-title="闽南频效",台视闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视
+#EXTINF:-1 tvg-name="寰宇闽南频效" tvg-logo="https://logo.catvod.com/寰宇闽南频效.png" group-title="闽南频效",寰宇闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+#EXTINF:-1 tvg-name="tvbs闽南频效" tvg-logo="https://logo.catvod.com/tvbs闽南频效.png" group-title="闽南频效",tvbs闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSHD
+#EXTINF:-1 tvg-name="霹雳闽南频效" tvg-logo="https://logo.catvod.com/霹雳闽南频效.png" group-title="闽南频效",霹雳闽南频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=霹雳台湾台
+#EXTINF:-1 tvg-name="公视闽语频效" tvg-logo="https://logo.catvod.com/公视闽语频效.png" group-title="闽南频效",公视闽语频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视台语台
+#EXTINF:-1 tvg-name="公视戏剧频效" tvg-logo="https://logo.catvod.com/公视戏剧频效.png" group-title="闽南频效",公视戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视戏剧
+#EXTINF:-1 tvg-name="小公视综频效" tvg-logo="https://logo.catvod.com/小公视综频效.png" group-title="闽南频效",小公视综频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=小公视
+#EXTINF:-1 tvg-name="民视第一频效" tvg-logo="https://logo.catvod.com/民视第一频效.png" group-title="闽南频效",民视第一频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视第一台
+#EXTINF:-1 tvg-name="民视闽语频效" tvg-logo="https://logo.catvod.com/民视闽语频效.png" group-title="闽南频效",民视闽语频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视台湾台
+#EXTINF:-1 tvg-name="民视影剧频效" tvg-logo="https://logo.catvod.com/民视影剧频效.png" group-title="闽南频效",民视影剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
+#EXTINF:-1 tvg-name="民视旅游频效" tvg-logo="https://logo.catvod.com/民视旅游频效.png" group-title="闽南频效",民视旅游频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视旅游台
+#EXTINF:-1 tvg-name="民视综艺频效" tvg-logo="https://logo.catvod.com/民视综艺频效.png" group-title="闽南频效",民视综艺频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视综艺台
+#EXTINF:-1 tvg-name="中视经典频效" tvg-logo="https://logo.catvod.com/中视经典频效.png" group-title="闽南频效",中视经典频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视经典
+#EXTINF:-1 tvg-name="中天综合频效" tvg-logo="https://logo.catvod.com/中天综合频效.png" group-title="闽南频效",中天综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天综合
+#EXTINF:-1 tvg-name="中天娱乐频效" tvg-logo="https://logo.catvod.com/中天娱乐频效.png" group-title="闽南频效",中天娱乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天娱乐
+#EXTINF:-1 tvg-name="台视综合频效" tvg-logo="https://logo.catvod.com/台视综合频效.png" group-title="闽南频效",台视综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视综合
+#EXTINF:-1 tvg-name="台视财经频效" tvg-logo="https://logo.catvod.com/台视财经频效.png" group-title="闽南频效",台视财经频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视财经
+#EXTINF:-1 tvg-name="寰宇财经频效" tvg-logo="https://logo.catvod.com/寰宇财经频效.png" group-title="闽南频效",寰宇财经频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+#EXTINF:-1 tvg-name="三立都会频效" tvg-logo="https://logo.catvod.com/三立都会频效.png" group-title="闽南频效",三立都会频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
+#EXTINF:-1 tvg-name="三立综合频效" tvg-logo="https://logo.catvod.com/三立综合频效.png" group-title="闽南频效",三立综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立综合台
+#EXTINF:-1 tvg-name="三立台湾频效" tvg-logo="https://logo.catvod.com/三立台湾频效.png" group-title="闽南频效",三立台湾频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立台湾台
+#EXTINF:-1 tvg-name="三立戏剧频效" tvg-logo="https://logo.catvod.com/三立戏剧频效.png" group-title="闽南频效",三立戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立戏剧台
+#EXTINF:-1 tvg-name="三立国际频效" tvg-logo="https://logo.catvod.com/三立国际频效.png" group-title="闽南频效",三立国际频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立国际台
+#EXTINF:-1 tvg-name="三立LIVE频效" tvg-logo="https://logo.catvod.com/三立LIVE频效.png" group-title="闽南频效",三立LIVE频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LIVE三立
+#EXTINF:-1 tvg-name="八大第一频效" tvg-logo="https://logo.catvod.com/八大第一频效.png" group-title="闽南频效",八大第一频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大第一台
+#EXTINF:-1 tvg-name="八大戏剧频效" tvg-logo="https://logo.catvod.com/八大戏剧频效.png" group-title="闽南频效",八大戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
+#EXTINF:-1 tvg-name="八大综合频效" tvg-logo="https://logo.catvod.com/八大综合频效.png" group-title="闽南频效",八大综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大综合台
+#EXTINF:-1 tvg-name="八大精彩频效" tvg-logo="https://logo.catvod.com/八大精彩频效.png" group-title="闽南频效",八大精彩频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
+#EXTINF:-1 tvg-name="八大娱乐频效" tvg-logo="https://logo.catvod.com/八大娱乐频效.png" group-title="闽南频效",八大娱乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大娱乐台
+#EXTINF:-1 tvg-name="龙华电影频效" tvg-logo="https://logo.catvod.com/龙华电影频效.png" group-title="闽南频效",龙华电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华电影
+#EXTINF:-1 tvg-name="龙华偶像频效" tvg-logo="https://logo.catvod.com/龙华偶像频效.png" group-title="闽南频效",龙华偶像频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华偶像
+#EXTINF:-1 tvg-name="龙华戏剧频效" tvg-logo="https://logo.catvod.com/龙华戏剧频效.png" group-title="闽南频效",龙华戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
+#EXTINF:-1 tvg-name="龙华日韩频效" tvg-logo="https://logo.catvod.com/龙华日韩频效.png" group-title="闽南频效",龙华日韩频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华日韩
+#EXTINF:-1 tvg-name="龙华影剧频效" tvg-logo="https://logo.catvod.com/龙华影剧频效.png" group-title="闽南频效",龙华影剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华影剧
+#EXTINF:-1 tvg-name="龙华洋片频效" tvg-logo="https://logo.catvod.com/龙华洋片频效.png" group-title="闽南频效",龙华洋片频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华洋片
+#EXTINF:-1 tvg-name="龙华卡通频效" tvg-logo="https://logo.catvod.com/龙华卡通频效.png" group-title="闽南频效",龙华卡通频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华卡通
+#EXTINF:-1 tvg-name="龙华经典频效" tvg-logo="https://logo.catvod.com/龙华经典频效.png" group-title="闽南频效",龙华经典频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华经典
+#EXTINF:-1 tvg-name="纬来日本频效" tvg-logo="https://logo.catvod.com/纬来日本频效.png" group-title="闽南频效",纬来日本频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来日本
+#EXTINF:-1 tvg-name="纬来育乐频效" tvg-logo="https://logo.catvod.com/纬来育乐频效.png" group-title="闽南频效",纬来育乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来育乐
+#EXTINF:-1 tvg-name="东森超美频效" tvg-logo="https://logo.catvod.com/东森超美频效.png" group-title="闽南频效",东森超美频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视美洲
+#EXTINF:-1 tvg-name="东森美洲频效" tvg-logo="https://logo.catvod.com/东森美洲频效.png" group-title="闽南频效",东森美洲频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲
+#EXTINF:-1 tvg-name="东森美卫频效" tvg-logo="https://logo.catvod.com/东森美卫频效.png" group-title="闽南频效",东森美卫频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲卫视
+#EXTINF:-1 tvg-name="东森中国频效" tvg-logo="https://logo.catvod.com/东森中国频效.png" group-title="闽南频效",东森中国频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森中国台
+#EXTINF:-1 tvg-name="东森超视频效" tvg-logo="https://logo.catvod.com/东森超视频效.png" group-title="闽南频效",东森超视频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视
+#EXTINF:-1 tvg-name="东森幼幼频效" tvg-logo="https://logo.catvod.com/东森幼幼频效.png" group-title="闽南频效",东森幼幼频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森幼幼
+#EXTINF:-1 tvg-name="MO_亲子频效" tvg-logo="https://logo.catvod.com/MO_亲子频效.png" group-title="闽南频效",MO_亲子频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MOMO亲子台
+#EXTINF:-1 tvg-name="闽南戏剧频效" tvg-logo="https://logo.catvod.com/闽南戏剧频效.png" group-title="闽南频效",闽南戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾戏剧
+#EXTINF:-1 tvg-name="壹电影综频效" tvg-logo="https://logo.catvod.com/壹电影综频效.png" group-title="闽南频效",壹电影综频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹电影
+#EXTINF:-1 tvg-name="JET-综合频效" tvg-logo="https://logo.catvod.com/JET-综合频效.png" group-title="闽南频效",JET-综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=JET综合台
+#EXTINF:-1 tvg-name="年代综合频效" tvg-logo="https://logo.catvod.com/年代综合频效.png" group-title="闽南频效",年代综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代Much
+#EXTINF:-1 tvg-name="非凡商业频效" tvg-logo="https://logo.catvod.com/非凡商业频效.png" group-title="闽南频效",非凡商业频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡商业
+#EXTINF:-1 tvg-name="国兴卫视频效" tvg-logo="https://logo.catvod.com/国兴卫视频效.png" group-title="闽南频效",国兴卫视频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=国兴卫视
+#EXTINF:-1 tvg-name="tvbs精采频效" tvg-logo="https://logo.catvod.com/tvbs精采频效.png" group-title="闽南频效",tvbs精采频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS精采台
+#EXTINF:-1 tvg-name="tvbs欢乐频效" tvg-logo="https://logo.catvod.com/tvbs欢乐频效.png" group-title="闽南频效",tvbs欢乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS欢乐台
+#EXTINF:-1 tvg-name="tvbs'new频效" tvg-logo="https://logo.catvod.com/tvbs'new频效.png" group-title="闽南频效",tvbs'new频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSNEWS
+#EXTINF:-1 tvg-name="靖天综合频效" tvg-logo="https://logo.catvod.com/靖天综合频效.png" group-title="闽南频效",靖天综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天综合台
+#EXTINF:-1 tvg-name="靖天日本频效" tvg-logo="https://logo.catvod.com/靖天日本频效.png" group-title="闽南频效",靖天日本频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天日本台
+#EXTINF:-1 tvg-name="靖天卡通频效" tvg-logo="https://logo.catvod.com/靖天卡通频效.png" group-title="闽南频效",靖天卡通频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天卡通台
+#EXTINF:-1 tvg-name="靖洋卡通频效" tvg-logo="https://logo.catvod.com/靖洋卡通频效.png" group-title="闽南频效",靖洋卡通频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖洋卡通台
+#EXTINF:-1 tvg-name="靖天国际频效" tvg-logo="https://logo.catvod.com/靖天国际频效.png" group-title="闽南频效",靖天国际频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天国际台
+#EXTINF:-1 tvg-name="靖天育乐频效" tvg-logo="https://logo.catvod.com/靖天育乐频效.png" group-title="闽南频效",靖天育乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天育乐台
+#EXTINF:-1 tvg-name="靖天映画频效" tvg-logo="https://logo.catvod.com/靖天映画频效.png" group-title="闽南频效",靖天映画频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天映画台
+#EXTINF:-1 tvg-name="靖天欢乐频效" tvg-logo="https://logo.catvod.com/靖天欢乐频效.png" group-title="闽南频效",靖天欢乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天欢乐台
+#EXTINF:-1 tvg-name="华艺综合频效" tvg-logo="https://logo.catvod.com/华艺综合频效.png" group-title="闽南频效",华艺综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=華藝MBC綜合台
+#EXTINF:-1 tvg-name="LUXE_TV频效" tvg-logo="https://logo.catvod.com/LUXE_TV频效.png" group-title="闽南频效",LUXE_TV频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LUXETV
+#EXTINF:-1 tvg-name="亚洲旅游频效" tvg-logo="https://logo.catvod.com/亚洲旅游频效.png" group-title="闽南频效",亚洲旅游频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=亚洲旅游台
+#EXTINF:-1 tvg-name="闽南'Plus频效" tvg-logo="https://logo.catvod.com/闽南'Plus频效.png" group-title="闽南频效",闽南'Plus频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾Plus
+#EXTINF:-1 tvg-name="EYE-旅游频效" tvg-logo="https://logo.catvod.com/EYE-旅游频效.png" group-title="闽南频效",EYE-旅游频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV旅游
+#EXTINF:-1 tvg-name="EYE-戏剧频效" tvg-logo="https://logo.catvod.com/EYE-戏剧频效.png" group-title="闽南频效",EYE-戏剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV戏剧
+#EXTINF:-1 tvg-name="ELta日韩频效" tvg-logo="https://logo.catvod.com/ELta日韩频效.png" group-title="闽南频效",ELta日韩频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA日韩
+#EXTINF:-1 tvg-name="ELta影剧频效" tvg-logo="https://logo.catvod.com/ELta影剧频效.png" group-title="闽南频效",ELta影剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA影剧
+#EXTINF:-1 tvg-name="ELta综合频效" tvg-logo="https://logo.catvod.com/ELta综合频效.png" group-title="闽南频效",ELta综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA综合
+#EXTINF:-1 tvg-name="ELta娱乐频效" tvg-logo="https://logo.catvod.com/ELta娱乐频效.png" group-title="闽南频效",ELta娱乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA娱乐
+#EXTINF:-1 tvg-name="ELta生活频效" tvg-logo="https://logo.catvod.com/ELta生活频效.png" group-title="闽南频效",ELta生活频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA生活旅游
+#EXTINF:-1 tvg-name="i-fun动漫频效" tvg-logo="https://logo.catvod.com/i-fun动漫频效.png" group-title="闽南频效",i-fun动漫频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=i-Fun動漫台
+#EXTINF:-1 tvg-name="Z-频道综频效" tvg-logo="https://logo.catvod.com/Z-频道综频效.png" group-title="闽南频效",Z-频道综频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Z频道
+#EXTINF:-1 tvg-name="thrill惊悚频效" tvg-logo="https://logo.catvod.com/thrill惊悚频效.png" group-title="闽南频效",thrill惊悚频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Thrill惊悚
+#EXTINF:-1 tvg-name="AXN电影频效" tvg-logo="https://logo.catvod.com/AXN电影频效.png" group-title="闽南频效",AXN电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=AXN頻道
+#EXTINF:-1 tvg-name="华纳电影频效" tvg-logo="https://logo.catvod.com/华纳电影频效.png" group-title="闽南频效",华纳电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华纳电影
+#EXTINF:-1 tvg-name="美亚电影频效" tvg-logo="https://logo.catvod.com/美亚电影频效.png" group-title="闽南频效",美亚电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=美亚电影台
+#EXTINF:-1 tvg-name="好莱电影频效" tvg-logo="https://logo.catvod.com/好莱电影频效.png" group-title="闽南频效",好莱电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=好莱坞电影
+#EXTINF:-1 tvg-name="Amc电影频效" tvg-logo="https://logo.catvod.com/Amc电影频效.png" group-title="闽南频效",Amc电影频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=amc最爱电影
+#EXTINF:-1 tvg-name="CINemax频效" tvg-logo="https://logo.catvod.com/CINemax频效.png" group-title="闽南频效",CINemax频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CINEMAX
+#EXTINF:-1 tvg-name="HBO频道频效" tvg-logo="https://logo.catvod.com/HBO频道频效.png" group-title="闽南频效",HBO频道频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO
+#EXTINF:-1 tvg-name="HBO高清频效" tvg-logo="https://logo.catvod.com/HBO高清频效.png" group-title="闽南频效",HBO高清频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBOHD
+#EXTINF:-1 tvg-name="HBO原创频效" tvg-logo="https://logo.catvod.com/HBO原创频效.png" group-title="闽南频效",HBO原创频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO原创
+#EXTINF:-1 tvg-name="HBO强档频效" tvg-logo="https://logo.catvod.com/HBO强档频效.png" group-title="闽南频效",HBO强档频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO强档
+#EXTINF:-1 tvg-name="HBO家庭频效" tvg-logo="https://logo.catvod.com/HBO家庭频效.png" group-title="闽南频效",HBO家庭频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO家庭
+#EXTINF:-1 tvg-name="采昌影剧频效" tvg-logo="https://logo.catvod.com/采昌影剧频效.png" group-title="闽南频效",采昌影剧频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=采昌影剧台
+#EXTINF:-1 tvg-name="高点综合频效" tvg-logo="https://logo.catvod.com/高点综合频效.png" group-title="闽南频效",高点综合频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=高点综合
+#EXTINF:-1 tvg-name="东风卫视频效" tvg-logo="https://logo.catvod.com/东风卫视频效.png" group-title="闽南频效",东风卫视频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东风卫视
+#EXTINF:-1 tvg-name="Smart-综频效" tvg-logo="https://logo.catvod.com/Smart-综频效.png" group-title="闽南频效",Smart-综频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Smart知识台
+#EXTINF:-1 tvg-name="客家电视频效" tvg-logo="https://logo.catvod.com/客家电视频效.png" group-title="闽南频效",客家电视频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=客家电视台
+#EXTINF:-1 tvg-name="原住民频频效" tvg-logo="https://logo.catvod.com/原住民频频效.png" group-title="闽南频效",原住民频频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=原住民频道
+#EXTINF:-1 tvg-name="MTV音乐频效" tvg-logo="https://logo.catvod.com/MTV音乐频效.png" group-title="闽南频效",MTV音乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MTV音乐频道
+#EXTINF:-1 tvg-name="韩国娱乐频效" tvg-logo="https://logo.catvod.com/韩国娱乐频效.png" group-title="闽南频效",韩国娱乐频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=韩国娱乐台
+#EXTINF:-1 tvg-name="猪哥亮歌频效" tvg-logo="https://logo.catvod.com/猪哥亮歌频效.png" group-title="闽南频效",猪哥亮歌频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=猪哥亮歌厅秀
+#EXTINF:-1 tvg-name="astroAec频效" tvg-logo="https://logo.catvod.com/astroAec频效.png" group-title="闽南频效",astroAec频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAEC
+#EXTINF:-1 tvg-name="astro_QJ频效" tvg-logo="https://logo.catvod.com/astro_QJ频效.png" group-title="闽南频效",astro_QJ频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroQJ
+#EXTINF:-1 tvg-name="astroaod频效" tvg-logo="https://logo.catvod.com/astroaod频效.png" group-title="闽南频效",astroaod频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAOD
+#EXTINF:-1 tvg-name="astr-欢喜频效" tvg-logo="https://logo.catvod.com/astr-欢喜频效.png" group-title="闽南频效",astr-欢喜频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Astro欢喜台
+#EXTINF:-1 tvg-name="中旺电视频效" tvg-logo="https://logo.catvod.com/中旺电视频效.png" group-title="闽南频效",中旺电视频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=中旺电视
+#EXTINF:-1 tvg-name="Fashionb频效" tvg-logo="https://logo.catvod.com/Fashionb频效.png" group-title="闽南频效",Fashionb频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=FashionBox
+#EXTINF:-1 tvg-name="TVN韩综频效" tvg-logo="https://logo.catvod.com/TVN韩综频效.png" group-title="闽南频效",TVN韩综频效
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=tVN
+#EXTINF:-1 tvg-name="TVN综韩频效" tvg-logo="https://logo.catvod.com/TVN综韩频效.png" group-title="闽南频效",TVN综韩频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=tvN
+#EXTINF:-1 tvg-name="KIX_韩综频效" tvg-logo="https://logo.catvod.com/KIX_韩综频效.png" group-title="闽南频效",KIX_韩综频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Kix
+#EXTINF:-1 tvg-name="rock娱乐频效" tvg-logo="https://logo.catvod.com/rock娱乐频效.png" group-title="闽南频效",rock娱乐频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK超级娱乐
+#EXTINF:-1 tvg-name="rock综艺频效" tvg-logo="https://logo.catvod.com/rock综艺频效.png" group-title="闽南频效",rock综艺频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK综艺娱乐
+#EXTINF:-1 tvg-name="AXN电影频效" tvg-logo="https://logo.catvod.com/AXN电影频效.png" group-title="闽南频效",AXN电影频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AXN
+#EXTINF:-1 tvg-name="ANIMAX-频效" tvg-logo="https://logo.catvod.com/ANIMAX-频效.png" group-title="闽南频效",ANIMAX-频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Animax
+#EXTINF:-1 tvg-name="thrill电影频效" tvg-logo="https://logo.catvod.com/thrill电影频效.png" group-title="闽南频效",thrill电影频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Thrill
+#EXTINF:-1 tvg-name="ZooMoo-频效" tvg-logo="https://logo.catvod.com/ZooMoo-频效.png" group-title="闽南频效",ZooMoo-频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ZooMoo
+#EXTINF:-1 tvg-name="Nickelod'频效" tvg-logo="https://logo.catvod.com/Nickelod'频效.png" group-title="闽南频效",Nickelod'频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick儿童频效" tvg-logo="https://logo.catvod.com/Nick儿童频效.png" group-title="闽南频效",Nick儿童频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=NickJr儿童频道
+#EXTINF:-1 tvg-name="Dream'W频效" tvg-logo="https://logo.catvod.com/Dream'W频效.png" group-title="闽南频效",Dream'W频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=DreamWorks
+#EXTINF:-1 tvg-name="动物星球频效" tvg-logo="https://logo.catvod.com/动物星球频效.png" group-title="闽南频效",动物星球频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=动物星球
+#EXTINF:-1 tvg-name="国家地理频效" tvg-logo="https://logo.catvod.com/国家地理频效.png" group-title="闽南频效",国家地理频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
+#EXTINF:-1 tvg-name="探索频道频效" tvg-logo="https://logo.catvod.com/探索频道频效.png" group-title="闽南频效",探索频道频效
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=探索频道
