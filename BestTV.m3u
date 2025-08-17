@@ -1,0 +1,299 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="百事通4M",CCTV1
+http://8.138.7.223/tv/bst4m.php?id=1
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="百事通4M",CCTV3
+http://8.138.7.223/tv/bst4m.php?id=2
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="百事通4M",CCTV5
+http://8.138.7.223/tv/bst4m.php?id=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="百事通4M",CCTV5+
+http://8.138.7.223/tv/bst4m.php?id=4
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="百事通4M",CCTV6
+http://8.138.7.223/tv/bst4m.php?id=5
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="百事通4M",CCTV8
+http://8.138.7.223/tv/bst4m.php?id=6
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="百事通4M",CCTV10
+http://8.138.7.223/tv/bst4m.php?id=7
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="百事通4M",CCTV14
+http://8.138.7.223/tv/bst4m.php?id=8
+#EXTINF:-1 tvg-name="上海ICS外语" tvg-logo="https://logo.catvod.com/上海ICS外语.png" group-title="百事通4M",上海ICS外语
+http://8.138.7.223/tv/bst4m.php?id=9
+#EXTINF:-1 tvg-name="上海东方影视" tvg-logo="https://logo.catvod.com/上海东方影视.png" group-title="百事通4M",上海东方影视
+http://8.138.7.223/tv/bst4m.php?id=10
+#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="https://logo.catvod.com/上海五星体育.png" group-title="百事通4M",上海五星体育
+http://8.138.7.223/tv/bst4m.php?id=11
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://logo.catvod.com/上海第一财经.png" group-title="百事通4M",上海第一财经
+http://8.138.7.223/tv/bst4m.php?id=12
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://logo.catvod.com/上海新闻综合.png" group-title="百事通4M",上海新闻综合
+http://8.138.7.223/tv/bst4m.php?id=13
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://logo.catvod.com/上海纪实人文.png" group-title="百事通4M",上海纪实人文
+http://8.138.7.223/tv/bst4m.php?id=14
+#EXTINF:-1 tvg-name="上海哈哈炫动" tvg-logo="https://logo.catvod.com/上海哈哈炫动.png" group-title="百事通4M",上海哈哈炫动
+http://8.138.7.223/tv/bst4m.php?id=15
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://logo.catvod.com/上海都市.png" group-title="百事通4M",上海都市
+http://8.138.7.223/tv/bst4m.php?id=16
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="百事通4M",东南卫视
+http://8.138.7.223/tv/bst4m.php?id=17
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="百事通4M",东方卫视
+http://8.138.7.223/tv/bst4m.php?id=18
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="百事通4M",北京卫视
+http://8.138.7.223/tv/bst4m.php?id=19
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="百事通4M",天津卫视
+http://8.138.7.223/tv/bst4m.php?id=20
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="百事通4M",安徽卫视
+http://8.138.7.223/tv/bst4m.php?id=21
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="百事通4M",山东卫视
+http://8.138.7.223/tv/bst4m.php?id=22
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="百事通4M",广东卫视
+http://8.138.7.223/tv/bst4m.php?id=23
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="百事通4M",江苏卫视
+http://8.138.7.223/tv/bst4m.php?id=24
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="百事通4M",江西卫视
+http://8.138.7.223/tv/bst4m.php?id=25
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="百事通4M",浙江卫视
+http://8.138.7.223/tv/bst4m.php?id=26
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="百事通4M",辽宁卫视
+http://8.138.7.223/tv/bst4m.php?id=27
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="百事通4M",深圳卫视
+http://8.138.7.223/tv/bst4m.php?id=28
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="百事通4M",湖北卫视
+http://8.138.7.223/tv/bst4m.php?id=29
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="百事通4M",湖南卫视
+http://8.138.7.223/tv/bst4m.php?id=30
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="百事通4M",黑龙江卫视
+http://8.138.7.223/tv/bst4m.php?id=31
+#EXTINF:-1 tvg-name="SiTV新视觉" tvg-logo="https://logo.catvod.com/SiTV新视觉.png" group-title="百事通4M",SiTV新视觉
+http://8.138.7.223/tv/bst4m.php?id=32
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://logo.catvod.com/SiTV动漫秀场.png" group-title="百事通4M",SiTV动漫秀场
+http://8.138.7.223/tv/bst4m.php?id=33
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://logo.catvod.com/SiTV游戏风云.png" group-title="百事通4M",SiTV游戏风云
+http://8.138.7.223/tv/bst4m.php?id=34
+#EXTINF:-1 tvg-name="SiTV劲爆体育" tvg-logo="https://logo.catvod.com/SiTV劲爆体育.png" group-title="百事通4M",SiTV劲爆体育
+http://8.138.7.223/tv/bst4m.php?id=35
+#EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://logo.catvod.com/SiTV魅力足球.png" group-title="百事通4M",SiTV魅力足球
+http://8.138.7.223/tv/bst4m.php?id=36
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-logo="https://logo.catvod.com/SiTV欢笑剧场.png" group-title="百事通4M",SiTV欢笑剧场
+http://8.138.7.223/tv/bst4m.php?id=37
+#EXTINF:-1 tvg-name="SiTV极速汽车" tvg-logo="https://logo.catvod.com/SiTV极速汽车.png" group-title="百事通4M",SiTV极速汽车
+http://8.138.7.223/tv/bst4m.php?id=38
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="https://logo.catvod.com/SiTV生活时尚.png" group-title="百事通4M",SiTV生活时尚
+http://8.138.7.223/tv/bst4m.php?id=39
+#EXTINF:-1 tvg-name="SiTV全纪实" tvg-logo="https://logo.catvod.com/SiTV全纪实.png" group-title="百事通4M",SiTV全纪实
+http://8.138.7.223/tv/bst4m.php?id=40
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://logo.catvod.com/SiTV都市剧场.png" group-title="百事通4M",SiTV都市剧场
+http://8.138.7.223/tv/bst4m.php?id=41
+#EXTINF:-1 tvg-name="SiTV幸福彩" tvg-logo="https://logo.catvod.com/SiTV幸福彩.png" group-title="百事通4M",SiTV幸福彩
+http://8.138.7.223/tv/bst4m.php?id=42
+#EXTINF:-1 tvg-name="百事通体育1" tvg-logo="https://logo.catvod.com/百事通体育1.png" group-title="百事通4M",百事通体育1
+http://8.138.7.223/tv/bst4m.php?id=43
+#EXTINF:-1 tvg-name="百事通体育2" tvg-logo="https://logo.catvod.com/百事通体育2.png" group-title="百事通4M",百事通体育2
+http://8.138.7.223/tv/bst4m.php?id=44
+#EXTINF:-1 tvg-name="百事通体育3" tvg-logo="https://logo.catvod.com/百事通体育3.png" group-title="百事通4M",百事通体育3
+http://8.138.7.223/tv/bst4m.php?id=45
+#EXTINF:-1 tvg-name="百事通体育4" tvg-logo="https://logo.catvod.com/百事通体育4.png" group-title="百事通4M",百事通体育4
+http://8.138.7.223/tv/bst4m.php?id=46
+#EXTINF:-1 tvg-name="百事通体育5" tvg-logo="https://logo.catvod.com/百事通体育5.png" group-title="百事通4M",百事通体育5
+http://8.138.7.223/tv/bst4m.php?id=47
+#EXTINF:-1 tvg-name="百事通体育6" tvg-logo="https://logo.catvod.com/百事通体育6.png" group-title="百事通4M",百事通体育6
+http://8.138.7.223/tv/bst4m.php?id=48
+#EXTINF:-1 tvg-name="百事通体育7" tvg-logo="https://logo.catvod.com/百事通体育7.png" group-title="百事通4M",百事通体育7
+http://8.138.7.223/tv/bst4m.php?id=49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="百事通8M",CCTV1 8M
+http://8.138.7.223/tv/bst8m.php?id=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="百事通8M",CCTV2 8M
+http://8.138.7.223/tv/bst8m.php?id=2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="百事通8M",CCTV3 8M
+http://8.138.7.223/tv/bst8m.php?id=3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="百事通8M",CCTV4 8M
+http://8.138.7.223/tv/bst8m.php?id=4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="百事通8M",CCTV5 8M
+http://8.138.7.223/tv/bst8m.php?id=5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="百事通8M",CCTV5+ 8M
+http://8.138.7.223/tv/bst8m.php?id=6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="百事通8M",CCTV6 8M
+http://8.138.7.223/tv/bst8m.php?id=7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="百事通8M",CCTV7 8M
+http://8.138.7.223/tv/bst8m.php?id=8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="百事通8M",CCTV8 8M
+http://8.138.7.223/tv/bst8m.php?id=9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="百事通8M",CCTV9 8M
+http://8.138.7.223/tv/bst8m.php?id=10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="百事通8M",CCTV10 8M
+http://8.138.7.223/tv/bst8m.php?id=11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="百事通8M",CCTV11 8M
+http://8.138.7.223/tv/bst8m.php?id=12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="百事通8M",CCTV12 8M
+http://8.138.7.223/tv/bst8m.php?id=13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="百事通8M",CCTV13 8M
+http://8.138.7.223/tv/bst8m.php?id=14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="百事通8M",CCTV14 8M
+http://8.138.7.223/tv/bst8m.php?id=15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="百事通8M",CCTV15 8M
+http://8.138.7.223/tv/bst8m.php?id=16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="百事通8M",CCTV16 8M
+http://8.138.7.223/tv/bst8m.php?id=17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="百事通8M",CCTV17 8M
+http://8.138.7.223/tv/bst8m.php?id=18
+#EXTINF:-1 tvg-name="北京卫视 8M" tvg-logo="https://logo.catvod.com/北京卫视 8M.png" group-title="百事通8M",北京卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=19
+#EXTINF:-1 tvg-name="东方卫视 8M" tvg-logo="https://logo.catvod.com/东方卫视 8M.png" group-title="百事通8M",东方卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=20
+#EXTINF:-1 tvg-name="天津卫视 8M" tvg-logo="https://logo.catvod.com/天津卫视 8M.png" group-title="百事通8M",天津卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=21
+#EXTINF:-1 tvg-name="重庆卫视 8M" tvg-logo="https://logo.catvod.com/重庆卫视 8M.png" group-title="百事通8M",重庆卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=22
+#EXTINF:-1 tvg-name="黑龙江卫视 8M" tvg-logo="https://logo.catvod.com/黑龙江卫视 8M.png" group-title="百事通8M",黑龙江卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=23
+#EXTINF:-1 tvg-name="吉林卫视 8M" tvg-logo="https://logo.catvod.com/吉林卫视 8M.png" group-title="百事通8M",吉林卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=24
+#EXTINF:-1 tvg-name="辽宁卫视 8M" tvg-logo="https://logo.catvod.com/辽宁卫视 8M.png" group-title="百事通8M",辽宁卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=25
+#EXTINF:-1 tvg-name="内蒙古卫视 2M" tvg-logo="https://logo.catvod.com/内蒙古卫视 2M.png" group-title="百事通8M",内蒙古卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=26
+#EXTINF:-1 tvg-name="宁夏卫视 2M" tvg-logo="https://logo.catvod.com/宁夏卫视 2M.png" group-title="百事通8M",宁夏卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=27
+#EXTINF:-1 tvg-name="甘肃卫视 8M" tvg-logo="https://logo.catvod.com/甘肃卫视 8M.png" group-title="百事通8M",甘肃卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=28
+#EXTINF:-1 tvg-name="青海卫视 2M" tvg-logo="https://logo.catvod.com/青海卫视 2M.png" group-title="百事通8M",青海卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=29
+#EXTINF:-1 tvg-name="陕西卫视 2M" tvg-logo="https://logo.catvod.com/陕西卫视 2M.png" group-title="百事通8M",陕西卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=30
+#EXTINF:-1 tvg-name="河北卫视 8M" tvg-logo="https://logo.catvod.com/河北卫视 8M.png" group-title="百事通8M",河北卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=31
+#EXTINF:-1 tvg-name="山西卫视 2M" tvg-logo="https://logo.catvod.com/山西卫视 2M.png" group-title="百事通8M",山西卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=32
+#EXTINF:-1 tvg-name="山东卫视 8M" tvg-logo="https://logo.catvod.com/山东卫视 8M.png" group-title="百事通8M",山东卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=33
+#EXTINF:-1 tvg-name="安徽卫视 8M" tvg-logo="https://logo.catvod.com/安徽卫视 8M.png" group-title="百事通8M",安徽卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=34
+#EXTINF:-1 tvg-name="河南卫视 8M" tvg-logo="https://logo.catvod.com/河南卫视 8M.png" group-title="百事通8M",河南卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=35
+#EXTINF:-1 tvg-name="湖北卫视 8M" tvg-logo="https://logo.catvod.com/湖北卫视 8M.png" group-title="百事通8M",湖北卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=36
+#EXTINF:-1 tvg-name="湖南卫视 8M" tvg-logo="https://logo.catvod.com/湖南卫视 8M.png" group-title="百事通8M",湖南卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=37
+#EXTINF:-1 tvg-name="江西卫视 8M" tvg-logo="https://logo.catvod.com/江西卫视 8M.png" group-title="百事通8M",江西卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=38
+#EXTINF:-1 tvg-name="江苏卫视 8M" tvg-logo="https://logo.catvod.com/江苏卫视 8M.png" group-title="百事通8M",江苏卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=39
+#EXTINF:-1 tvg-name="浙江卫视 8M" tvg-logo="https://logo.catvod.com/浙江卫视 8M.png" group-title="百事通8M",浙江卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=40
+#EXTINF:-1 tvg-name="东南卫视 8M" tvg-logo="https://logo.catvod.com/东南卫视 8M.png" group-title="百事通8M",东南卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=41
+#EXTINF:-1 tvg-name="广东卫视 8M" tvg-logo="https://logo.catvod.com/广东卫视 8M.png" group-title="百事通8M",广东卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=42
+#EXTINF:-1 tvg-name="深圳卫视 8M" tvg-logo="https://logo.catvod.com/深圳卫视 8M.png" group-title="百事通8M",深圳卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=43
+#EXTINF:-1 tvg-name="广西卫视 8M" tvg-logo="https://logo.catvod.com/广西卫视 8M.png" group-title="百事通8M",广西卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=44
+#EXTINF:-1 tvg-name="云南卫视 8M" tvg-logo="https://logo.catvod.com/云南卫视 8M.png" group-title="百事通8M",云南卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=45
+#EXTINF:-1 tvg-name="贵州卫视 8M" tvg-logo="https://logo.catvod.com/贵州卫视 8M.png" group-title="百事通8M",贵州卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=46
+#EXTINF:-1 tvg-name="四川卫视 8M" tvg-logo="https://logo.catvod.com/四川卫视 8M.png" group-title="百事通8M",四川卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=47
+#EXTINF:-1 tvg-name="新疆卫视 2M" tvg-logo="https://logo.catvod.com/新疆卫视 2M.png" group-title="百事通8M",新疆卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=48
+#EXTINF:-1 tvg-name="兵团卫视 2M" tvg-logo="https://logo.catvod.com/兵团卫视 2M.png" group-title="百事通8M",兵团卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=49
+#EXTINF:-1 tvg-name="西藏卫视 2M" tvg-logo="https://logo.catvod.com/西藏卫视 2M.png" group-title="百事通8M",西藏卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=50
+#EXTINF:-1 tvg-name="海南卫视 8M" tvg-logo="https://logo.catvod.com/海南卫视 8M.png" group-title="百事通8M",海南卫视 8M
+http://8.138.7.223/tv/bst8m.php?id=51
+#EXTINF:-1 tvg-name="厦门卫视 2M" tvg-logo="https://logo.catvod.com/厦门卫视 2M.png" group-title="百事通8M",厦门卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=52
+#EXTINF:-1 tvg-name="康巴卫视 2M" tvg-logo="https://logo.catvod.com/康巴卫视 2M.png" group-title="百事通8M",康巴卫视 2M
+http://8.138.7.223/tv/bst8m.php?id=53
+#EXTINF:-1 tvg-name="电竞天堂 8M" tvg-logo="https://logo.catvod.com/电竞天堂 8M.png" group-title="百事通8M",电竞天堂 8M
+http://8.138.7.223/tv/bst8m.php?id=54
+#EXTINF:-1 tvg-name="青春动漫 8M" tvg-logo="https://logo.catvod.com/青春动漫 8M.png" group-title="百事通8M",青春动漫 8M
+http://8.138.7.223/tv/bst8m.php?id=55
+#EXTINF:-1 tvg-name="宝宝动画 8M" tvg-logo="https://logo.catvod.com/宝宝动画 8M.png" group-title="百事通8M",宝宝动画 8M
+http://8.138.7.223/tv/bst8m.php?id=56
+#EXTINF:-1 tvg-name="卡酷少儿 8M" tvg-logo="https://logo.catvod.com/卡酷少儿 8M.png" group-title="百事通8M",卡酷少儿 8M
+http://8.138.7.223/tv/bst8m.php?id=57
+#EXTINF:-1 tvg-name="炫动卡通 8M" tvg-logo="https://logo.catvod.com/炫动卡通 8M.png" group-title="百事通8M",炫动卡通 8M
+http://8.138.7.223/tv/bst8m.php?id=58
+#EXTINF:-1 tvg-name="动漫秀场 8M" tvg-logo="https://logo.catvod.com/动漫秀场 8M.png" group-title="百事通8M",动漫秀场 8M
+http://8.138.7.223/tv/bst8m.php?id=59
+#EXTINF:-1 tvg-name="中国教育-1 8M" tvg-logo="https://logo.catvod.com/中国教育-1 8M.png" group-title="百事通8M",中国教育-1 8M
+http://8.138.7.223/tv/bst8m.php?id=60
+#EXTINF:-1 tvg-name="中国教育-2 8M" tvg-logo="https://logo.catvod.com/中国教育-2 8M.png" group-title="百事通8M",中国教育-2 8M
+http://8.138.7.223/tv/bst8m.php?id=61
+#EXTINF:-1 tvg-name="中国教育-4 8M" tvg-logo="https://logo.catvod.com/中国教育-4 8M.png" group-title="百事通8M",中国教育-4 8M
+http://8.138.7.223/tv/bst8m.php?id=62
+#EXTINF:-1 tvg-name="欢笑剧场 8M" tvg-logo="https://logo.catvod.com/欢笑剧场 8M.png" group-title="百事通8M",欢笑剧场 8M
+http://8.138.7.223/tv/bst8m.php?id=63
+#EXTINF:-1 tvg-name="快乐垂钓 8M" tvg-logo="https://logo.catvod.com/快乐垂钓 8M.png" group-title="百事通8M",快乐垂钓 8M
+http://8.138.7.223/tv/bst8m.php?id=64
+#EXTINF:-1 tvg-name="金鹰纪实 8M" tvg-logo="https://logo.catvod.com/金鹰纪实 8M.png" group-title="百事通8M",金鹰纪实 8M
+http://8.138.7.223/tv/bst8m.php?id=65
+#EXTINF:-1 tvg-name="戏曲精选 8M" tvg-logo="https://logo.catvod.com/戏曲精选 8M.png" group-title="百事通8M",戏曲精选 8M
+http://8.138.7.223/tv/bst8m.php?id=66
+#EXTINF:-1 tvg-name="茶频道 8M" tvg-logo="https://logo.catvod.com/茶频道 8M.png" group-title="百事通8M",茶频道 8M
+http://8.138.7.223/tv/bst8m.php?id=67
+#EXTINF:-1 tvg-name="财富天下 8M" tvg-logo="https://logo.catvod.com/财富天下 8M.png" group-title="百事通8M",财富天下 8M
+http://8.138.7.223/tv/bst8m.php?id=68
+#EXTINF:-1 tvg-name="中国天气 8M" tvg-logo="https://logo.catvod.com/中国天气 8M.png" group-title="百事通8M",中国天气 8M
+http://8.138.7.223/tv/bst8m.php?id=69
+#EXTINF:-1 tvg-name="看天下精选 8M" tvg-logo="https://logo.catvod.com/看天下精选 8M.png" group-title="百事通8M",看天下精选 8M
+http://8.138.7.223/tv/bst8m.php?id=70
+#EXTINF:-1 tvg-name="华语影院 8M" tvg-logo="https://logo.catvod.com/华语影院 8M.png" group-title="百事通8M",华语影院 8M
+http://8.138.7.223/tv/bst8m.php?id=71
+#EXTINF:-1 tvg-name="星光影院 8M" tvg-logo="https://logo.catvod.com/星光影院 8M.png" group-title="百事通8M",星光影院 8M
+http://8.138.7.223/tv/bst8m.php?id=72
+#EXTINF:-1 tvg-name="谍战剧场 8M" tvg-logo="https://logo.catvod.com/谍战剧场 8M.png" group-title="百事通8M",谍战剧场 8M
+http://8.138.7.223/tv/bst8m.php?id=73
+#EXTINF:-1 tvg-name="都市剧场 8M" tvg-logo="https://logo.catvod.com/都市剧场 8M.png" group-title="百事通8M",都市剧场 8M
+http://8.138.7.223/tv/bst8m.php?id=74
+#EXTINF:-1 tvg-name="全球大片 8M" tvg-logo="https://logo.catvod.com/全球大片 8M.png" group-title="百事通8M",全球大片 8M
+http://8.138.7.223/tv/bst8m.php?id=75
+#EXTINF:-1 tvg-name="热门剧场 8M" tvg-logo="https://logo.catvod.com/热门剧场 8M.png" group-title="百事通8M",热门剧场 8M
+http://8.138.7.223/tv/bst8m.php?id=76
+#EXTINF:-1 tvg-name="纪实科教 8M" tvg-logo="https://logo.catvod.com/纪实科教 8M.png" group-title="百事通8M",纪实科教 8M
+http://8.138.7.223/tv/bst8m.php?id=77
+#EXTINF:-1 tvg-name="全纪实 8M" tvg-logo="https://logo.catvod.com/全纪实 8M.png" group-title="百事通8M",全纪实 8M
+http://8.138.7.223/tv/bst8m.php?id=78
+#EXTINF:-1 tvg-name="足球高清 8M" tvg-logo="https://logo.catvod.com/足球高清 8M.png" group-title="百事通8M",足球高清 8M
+http://8.138.7.223/tv/bst8m.php?id=79
+#EXTINF:-1 tvg-name="魅力足球 8M" tvg-logo="https://logo.catvod.com/魅力足球 8M.png" group-title="百事通8M",魅力足球 8M
+http://8.138.7.223/tv/bst8m.php?id=80
+#EXTINF:-1 tvg-name="上海新闻 8M" tvg-logo="https://logo.catvod.com/上海新闻 8M.png" group-title="百事通8M",上海新闻 8M
+http://8.138.7.223/tv/bst8m.php?id=81
+#EXTINF:-1 tvg-name="上海都市 8M" tvg-logo="https://logo.catvod.com/上海都市 8M.png" group-title="百事通8M",上海都市 8M
+http://8.138.7.223/tv/bst8m.php?id=82
+#EXTINF:-1 tvg-name="上海教育 8M" tvg-logo="https://logo.catvod.com/上海教育 8M.png" group-title="百事通8M",上海教育 8M
+http://8.138.7.223/tv/bst8m.php?id=83
+#EXTINF:-1 tvg-name="上海纪实 8M" tvg-logo="https://logo.catvod.com/上海纪实 8M.png" group-title="百事通8M",上海纪实 8M
+http://8.138.7.223/tv/bst8m.php?id=84
+#EXTINF:-1 tvg-name="上视外语 8M" tvg-logo="https://logo.catvod.com/上视外语 8M.png" group-title="百事通8M",上视外语 8M
+http://8.138.7.223/tv/bst8m.php?id=85
+#EXTINF:-1 tvg-name="东方影视 8M" tvg-logo="https://logo.catvod.com/东方影视 8M.png" group-title="百事通8M",东方影视 8M
+http://8.138.7.223/tv/bst8m.php?id=86
+#EXTINF:-1 tvg-name="五星体育 8M" tvg-logo="https://logo.catvod.com/五星体育 8M.png" group-title="百事通8M",五星体育 8M
+http://8.138.7.223/tv/bst8m.php?id=87
+#EXTINF:-1 tvg-name="七彩戏剧 8M" tvg-logo="https://logo.catvod.com/七彩戏剧 8M.png" group-title="百事通8M",七彩戏剧 8M
+http://8.138.7.223/tv/bst8m.php?id=88
+#EXTINF:-1 tvg-name="新视觉 8M" tvg-logo="https://logo.catvod.com/新视觉 8M.png" group-title="百事通8M",新视觉 8M
+http://8.138.7.223/tv/bst8m.php?id=89
+#EXTINF:-1 tvg-name="生活时尚 8M" tvg-logo="https://logo.catvod.com/生活时尚 8M.png" group-title="百事通8M",生活时尚 8M
+http://8.138.7.223/tv/bst8m.php?id=90
+#EXTINF:-1 tvg-name="游戏风云 8M" tvg-logo="https://logo.catvod.com/游戏风云 8M.png" group-title="百事通8M",游戏风云 8M
+http://8.138.7.223/tv/bst8m.php?id=91
+#EXTINF:-1 tvg-name="热门综艺 8M" tvg-logo="https://logo.catvod.com/热门综艺 8M.png" group-title="百事通8M",热门综艺 8M
+http://8.138.7.223/tv/bst8m.php?id=92
+#EXTINF:-1 tvg-name="劲爆体育 8M" tvg-logo="https://logo.catvod.com/劲爆体育 8M.png" group-title="百事通8M",劲爆体育 8M
+http://8.138.7.223/tv/bst8m.php?id=93
+#EXTINF:-1 tvg-name="健康养生 8M" tvg-logo="https://logo.catvod.com/健康养生 8M.png" group-title="百事通8M",健康养生 8M
+http://8.138.7.223/tv/bst8m.php?id=94
+#EXTINF:-1 tvg-name="百变课堂 8M" tvg-logo="https://logo.catvod.com/百变课堂 8M.png" group-title="百事通8M",百变课堂 8M
+http://8.138.7.223/tv/bst8m.php?id=95
+#EXTINF:-1 tvg-name="东方财经 8M" tvg-logo="https://logo.catvod.com/东方财经 8M.png" group-title="百事通8M",东方财经 8M
+http://8.138.7.223/tv/bst8m.php?id=96
+#EXTINF:-1 tvg-name="上海第一财经 8M" tvg-logo="https://logo.catvod.com/上海第一财经 8M.png" group-title="百事通8M",上海第一财经 8M
+http://8.138.7.223/tv/bst8m.php?id=97
+#EXTINF:-1 tvg-name="乐游 8M" tvg-logo="https://logo.catvod.com/乐游 8M.png" group-title="百事通8M",乐游 8M
+http://8.138.7.223/tv/bst8m.php?id=98
+#EXTINF:-1 tvg-name="法治天地 8M" tvg-logo="https://logo.catvod.com/法治天地 8M.png" group-title="百事通8M",法治天地 8M
+http://8.138.7.223/tv/bst8m.php?id=99
+#EXTINF:-1 tvg-name="金色学堂 8M" tvg-logo="https://logo.catvod.com/金色学堂 8M.png" group-title="百事通8M",金色学堂 8M
+http://8.138.7.223/tv/bst8m.php?id=100
